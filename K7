@@ -1,5 +1,5 @@
   -- Bro What Do You Want ( Steal ) 🤨?
   -- Bruh You Can't Steal Cry About This 😎
-  loadstring(game:HttpGet(""))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/MS7top/K7/refs/heads/main/K7v0.1.txt"))()
   -- Always The Best K7 🥇
   -- This Script Made By Mohammed ✌
